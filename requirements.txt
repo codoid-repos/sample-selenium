@@ -1,5 +1,5 @@
 attrs==19.3.0
-autobahn==20.4.1
+autobahn==20.12.3
 Automat==20.2.0
 behave==1.2.6
 buildbot==2.7.0
